@@ -1,0 +1,90 @@
+_repo: The-Lock-and-Key-Library-Classic-Mystery-and-Detective-Stories-Old-Time-English_1831
+contributor:
+  contributors:
+  - agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+  - agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Kvinsi, Tomas de
+    - Quincy, Thomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_de_Quincey
+  - agent_name: Maturin, Charles Robert
+    aliases:
+    - Maturin, R. C.
+    - Murphy, Dennis Jasper
+    - Murphy, Denis Jasper
+    birthdate: 1780
+    deathdate: 1824
+    gutenberg_agent_id: '5828'
+    url: http://www.gutenberg.org/2009/agents/5828
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Maturin
+  - agent_name: Lytton, Edward Bulwer Lytton, Baron
+    aliases:
+    - Bulwer, Edward Lytton
+    - Bulwer-Lytton, Edward George Earle Lytton, 1st Baron
+    birthdate: 1803
+    deathdate: 1873
+    gutenberg_agent_id: '761'
+    url: http://www.gutenberg.org/2009/agents/761
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Bulwer-Lytton,_1st_Baron_Lytton
+  - agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+  - agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia: http://en.wikipedia.org/wiki/Laurence_Sterne
+  creator:
+    editor:
+      agent_name: Hawthorne, Julian
+      birthdate: 1846
+      deathdate: 1934
+      gutenberg_agent_id: '675'
+      url: http://www.gutenberg.org/2009/agents/675
+      wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: ''
+gutenberg_bookshelf:
+- Short Stories
+- Gothic Fiction
+gutenberg_issued: '1999-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- !lcsh 'Ghost stories'
+- !lcsh 'Detective and mystery stories'
+tableOfContents: 'The haunted house / C. Dickens -- No. 1 branch line: The signal
+  man / C. Dickens -- The haunted and the haunters; or, the house and the brain /
+  Bulwer-Lytton -- The incantation / Bulwer-Lytton -- The avenger / T. De Quincey
+  -- Melmoth the wanderer / C.R. Maturin -- A mystery with a moral / L. Sterne --
+  On being found out /W.M. Thackeray -- The notch in the ax / W.M. Thackeray -- Bourgonef
+  -- The closed cabinet.'
+title: 'The Lock and Key Library: Classic Mystery and Detective Stories: Old Time
+  English'
+url: http://www.gutenberg.org/ebooks/1831
