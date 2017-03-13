@@ -1,5 +1,5 @@
 _repo: The-Lock-and-Key-Library-Classic-Mystery-and-Detective-Stories-Old-Time-English_1831
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Dickens, Charles
@@ -63,7 +63,12 @@ contributor:
       gutenberg_agent_id: '675'
       url: http://www.gutenberg.org/2009/agents/675
       wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1831#The-Lock-and-Key-Library-Classic-Mystery-and-Detective-Stories-Old-Time-English
 gutenberg_bookshelf:
 - Short Stories
 - Gothic Fiction
