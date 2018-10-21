@@ -1,5 +1,5 @@
 _repo: The-Lock-and-Key-Library-Classic-Mystery-and-Detective-Stories-Old-Time-English_1831
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributors:
   - agent_name: Dickens, Charles
@@ -85,6 +85,7 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Ghost stories'
 - !lcsh 'Detective and mystery stories'
+- GITenberg
 tableOfContents: 'The haunted house / C. Dickens -- No. 1 branch line: The signal
   man / C. Dickens -- The haunted and the haunters; or, the house and the brain /
   Bulwer-Lytton -- The incantation / Bulwer-Lytton -- The avenger / T. De Quincey
